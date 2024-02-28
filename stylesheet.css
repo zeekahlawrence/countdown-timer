@@ -1,0 +1,26 @@
+        
+            h1, h2 {
+border: 1px solid black;
+            }
+            body{
+            color: green;
+            font-family: Verdana, Arial,  Geneva, arialblack;
+            font-weight: normal;
+            }
+
+            .blue {
+                color: blue;
+                font-size: 25px;
+                font-family: Helvetica;
+            }
+
+            p.purple {
+                color: purple;
+                font-size: 25px;
+                
+            }
+     .underline {
+                    text-decoration: underline;
+                }
+            
+        
